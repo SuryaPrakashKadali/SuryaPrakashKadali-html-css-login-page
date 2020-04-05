@@ -9,11 +9,12 @@
     color: white;
     
 }
-h1{
-    position: absolute; 
-    top: 30px; 
-    left: 38%; 
-    width: 100%; 
+.tsktext{
+  position: absolute; 
+  top: 40px; 
+  left: 47%; 
+  width: 100%; 
+  font-size: xx-large;
 }
 body {font-family: Arial, Helvetica, sans-serif;}
 form {border: 3px solid #f1f1f1;}
